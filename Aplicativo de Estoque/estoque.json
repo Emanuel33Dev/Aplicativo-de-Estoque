@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "nome": "Celular A15",
+        "quantidade": 45,
+        "preco": 1500.0,
+        "codigo_produto": "5849601",
+        "data_cadastro": "2024-12-08"
+    },
+    {
+        "nome": "Computador i5",
+        "quantidade": 78,
+        "preco": 2800.0,
+        "codigo_produto": "5465501",
+        "data_cadastro": "2024-12-08"
+    },
+    {
+        "nome": "Mause",
+        "quantidade": 3,
+        "preco": 80.0,
+        "codigo_produto": "5947201",
+        "data_cadastro": "2024-12-08"
+    },
+    {
+        "nome": "Teclado",
+        "quantidade": 25,
+        "preco": 250.0,
+        "codigo_produto": "8711501",
+        "data_cadastro": "2024-12-08"
+    }
+]
